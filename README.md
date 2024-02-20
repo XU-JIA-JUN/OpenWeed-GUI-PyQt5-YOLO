@@ -1,2 +1,4 @@
 # OpenWeed-GUI
- An Open-Source Graphical Tool for Weed Imaging and YOLO-based Weed Detection
+Welcome to the OpenWeedGUI! An Open-Source Graphical Tool for Weed Imaging and YOLO-based Weed Detection
+# Introduction
+OpenWeedGUI is a graphical user interface (GUI) designed to bridge the gap between machine vision and artificial intelligence technologies for real-time weed detection in sustainable crop production. Built on the PyQt framework and leveraging open-source libraries, OpenWeedGUI simplifies the process of image acquisition and deployment of YOLO (You Only Look Once) models, making it an indispensable tool for researchers, developers, and practitioners in the field of precision agriculture.
