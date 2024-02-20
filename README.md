@@ -6,6 +6,15 @@ Welcome to the **OpenWeedGUI**! An Open-Source Graphical Tool for Weed Imaging a
 ![GUI Layout](./Pictures/GUILayout.jpg "GUI Layout")
 
 # Features
-- Support 
+- Support image/video/camera stream (Vimba Camera) as input
+- Temporarily change the model
+- Change detection confidence
+- Camera parameter setting
+- Play/pause/stop
+- Visualize detection results
+- Result statistics
+- Save detected image/JSON automatically
+
+
 
 
