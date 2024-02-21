@@ -37,23 +37,6 @@ It should be noted that you need to install [Vimba SDK](https://github.com/allie
 
 After downloading the project files and installing the required libraries, you can start the GUI by running the following command:
 
-## 模型下载
-
-以下是可用模型的列表，包括它们的分类和下载链接：
-
-| 分类   | 模型名称       | 下载链接            |
-|--------|----------------|---------------------|
-| 分类A  | 模型A1         | [下载](链接A1)      |
-|        | 模型A2         | [下载](链接A2)      |
-| 分类B  | 模型B1         | [下载](链接B1)      |
-| 分类C  | 模型C1         | [下载](链接C1)      |
-|        | 模型C2         | [下载](链接C2)      |
-|        | 模型C3         | [下载](链接C3)      |
-| 分类D  | 模型D1         | [下载](链接D1)      |
-
-请点击相应的下载链接获取模型。
-
-
 ```bash
 python WeedGUI.py
 ```
