@@ -18,6 +18,11 @@ Welcome to the **OpenWeedGUI**! An Open-Source Graphical Tool for Weed Imaging a
 # Installing OpenWeedGUI:
 
 ## Environment Requirements:
- CASPR can be operated any version of Windows and Linux with MATLAB installed (refer below). It should be noted that some optional features cannot be used when run on Linux.
+ OpenWeedGUI was developed using Linux with MATLAB installed (refer below). 
+ 
+ can be operated any version of Windows and
+ 
+ It should be noted that some optional features cannot be used when run on Linux.
 
-
+```bash
+python --version
