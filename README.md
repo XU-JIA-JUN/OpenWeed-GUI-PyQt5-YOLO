@@ -59,7 +59,7 @@ It is noted that YOLOX and YOLOv8 models were not trained on CottonWeedDet12, bu
 https://drive.google.com/drive/folders/1l9rb8od7Jzt4aWahFW4bxQZKpMcD7XrR?usp=drive_link
 
 ## Note 
-
+OpenWeedGUI integrates the models into the system. After you download these models, you may need to change the model path in the main code!
 
 
 
