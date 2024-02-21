@@ -18,4 +18,9 @@ Welcome to the **OpenWeedGUI**! An Open-Source Graphical Tool for Weed Imaging a
 # Installing OpenWeedGUI:
 
 ## Environment Requirements:
- OpenWeedGUI was developed using Linux but it also can be operated in Windows. It should be noted that some optional features cannot be used when run on Linux. `python --version`
+OpenWeedGUI was developed using Linux but it also can be operated in Windows. It should be noted that some optional features cannot be used when run on Linux. OpenWeedGUI is based on Python and requires `python >= 3.8` to run, pay attention to OpenWeedGUI can only support Vimba Camera for now, if you use a customed camera, you should change the input source. 
+
+## Install
+
+
+
