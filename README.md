@@ -21,7 +21,8 @@ Welcome to the **OpenWeedGUI**! An Open-Source Graphical Tool for Weed Imaging a
 OpenWeedGUI was developed using Linux but it also can be operated in Windows. It should be noted that some optional features cannot be used when run on Linux. OpenWeedGUI is based on Python and requires `python >= 3.8` to run, pay attention to OpenWeedGUI can only support Vimba Camera for now, if you use a customed camera, you should change the input source. 
 
 ## Install
-To download this project, you can use the 'git clone' command as follows:
+To download this project, you can use the `git clone` command as follows:
+
 '''bash
 https://github.com/XU-JIA-JUN/OpenWeed-GUI.git
 
