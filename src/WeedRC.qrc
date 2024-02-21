@@ -1,6 +1,6 @@
 <RCC>
   <qresource prefix="icon">
-    <file>icon/资源 3.png</file>
+    <file>icon/source3.png</file>
     <file>icon/icon_video.png</file>
     <file>icon/videoWbp.png</file>
     <file>icon/realVideo.png</file>
