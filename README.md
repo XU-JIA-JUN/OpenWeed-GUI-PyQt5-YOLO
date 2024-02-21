@@ -49,4 +49,7 @@ OpenWeedGUI supports over 20 well-trained YOLO models for weed detection, offeri
 
 https://drive.google.com/drive/mobile/folders/15AloANR9ol9NZukM4l50CcT7sw8KX0iS?usp=share_link
 
+These models were trained based on [CottonWeedDet12](https://zenodo.org/records/7535814) dataset that contains 12-class weeds
+
+
 
