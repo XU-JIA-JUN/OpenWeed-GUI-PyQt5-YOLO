@@ -18,4 +18,4 @@ Welcome to the **OpenWeedGUI**! An Open-Source Graphical Tool for Weed Imaging a
 # Installing OpenWeedGUI:
 
 ## Environment Requirements:
- OpenWeedGUI was developed using Linux but it also can be operated in Windows. It should be noted that some optional features cannot be used when run on Linux. ```bash python --version
+ OpenWeedGUI was developed using Linux but it also can be operated in Windows. It should be noted that some optional features cannot be used when run on Linux. `python --version`
