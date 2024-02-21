@@ -62,6 +62,22 @@ https://drive.google.com/drive/folders/1l9rb8od7Jzt4aWahFW4bxQZKpMcD7XrR?usp=dri
 OpenWeedGUI integrates the models into the system. After you download these models, you may need to change the model path in the main code!
 
 
+# Citing This Work
+
+If you use OpenWeedGUI for your research, please consider citing our paper. This helps us to continue providing updates and support for the project. Below is the BibTeX entry for our paper:
+
+```bibtex
+@inproceedings{xu2023openweedgui,
+  title={OpenWeedGUI: an open-source graphical user interface for weed imaging and detection},
+  author={Xu, Jiajun and Lu, Yuzhen},
+  booktitle={Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping VIII},
+  volume={12539},
+  pages={97--106},
+  year={2023},
+  organization={SPIE}
+}
+```
+
 
 
 
