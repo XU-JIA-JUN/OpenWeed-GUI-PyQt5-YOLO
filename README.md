@@ -31,3 +31,4 @@ After downloading the project files, you can install the required libraries by r
 ```bash
 pip install -r requirements.txt
 ```
+It should be noted that you need to install [Vimba SDK](https://github.com/alliedvision/VimbaPython) If you use a vimba camera.
