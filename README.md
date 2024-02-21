@@ -41,3 +41,12 @@ After downloading the project files and installing the required libraries, you c
 python WeedGUI.py
 ```
 ![Field Test](./Pictures/Test_video.gif "Field Test")
+
+
+## Models
+
+OpenWeedGUI supports over 20 well-trained YOLO models for weed detection, offering the capability to identify more than 10 types of weeds. You can download weed detectors from YOLOv3 to YOLOv5 from this link:
+
+https://drive.google.com/drive/mobile/folders/15AloANR9ol9NZukM4l50CcT7sw8KX0iS?usp=share_link
+
+
