@@ -23,6 +23,6 @@ OpenWeedGUI was developed using Linux but it also can be operated in Windows. It
 ## Install
 To download this project, you can use the `git clone` command as follows:
 
-'''bash
-https://github.com/XU-JIA-JUN/OpenWeed-GUI.git
+```bash
 
+python3 -m venv venv
