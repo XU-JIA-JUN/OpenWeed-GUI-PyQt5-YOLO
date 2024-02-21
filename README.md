@@ -40,4 +40,4 @@ After downloading the project files and installing the required libraries, you c
 ```bash
 python WeedGUI.py
 ```
-
+![Field Test](./Pictures/Test_video.gif "Field Test")
