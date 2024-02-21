@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/资源 3.png</file>
+    <file>icon/icon_video.png</file>
+    <file>icon/videoWbp.png</file>
+    <file>icon/realVideo.png</file>
+    <file>icon/icon-image-513.png</file>
+    <file>icon/camera_open.png</file>
+    <file>icon/camera_close.png</file>
+    <file>icon/camera_open.png</file>
+    <file>icon/HD-Lime-Green-Background.jpg</file>
+  </qresource>
+</RCC>

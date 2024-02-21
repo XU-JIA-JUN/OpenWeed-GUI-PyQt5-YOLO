@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>HD-Lime-Green-Background.jpg</file>
+    <file>1.png</file>
+    <file>icon/1.png</file>
+  </qresource>
+  <qresource prefix="bg"/>
+</RCC>
