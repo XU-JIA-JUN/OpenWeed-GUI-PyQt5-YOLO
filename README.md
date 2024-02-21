@@ -56,6 +56,11 @@ These models were trained based on [CottonWeedDet12](https://zenodo.org/records/
 
 It is noted that YOLOX and YOLOv8 models were not trained on CottonWeedDet12, but they were trained in a separate study based on [Cross-season](https://elibrary.asabe.org/abstract.asp?JID=5&AID=54499&CID=oma2023&T=1) weed dataset. You can download these models from this link:
 
+https://drive.google.com/drive/folders/1l9rb8od7Jzt4aWahFW4bxQZKpMcD7XrR?usp=drive_link
+
+## Note 
+
+
 
 
 
